@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url(https://bantuternak.com/wp-content/uploads/2019/05/investasi_peternakan-870x496.jpg);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 200px;
+
+}
+.jumbotron .lean {
+    color: white;
+}
+.jumbotron p {
+    color: white;
+    font-size: 25px;
+}
+.jumbotron hr {
+    border-color: #F05F40;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: #F05F40;
+    border: none;
+    border-radius: 30px;
+    margin-top: 40px;
+}
